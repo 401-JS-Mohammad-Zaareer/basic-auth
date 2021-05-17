@@ -1,7 +1,7 @@
 {
     "name": "server",
     "version": "1.0.0",
-    "description": "",
+    "description": "### Author: Mohammad Za'areer",
     "main": "index.js",
     "scripts": {
         "start": "node index.js",
@@ -25,5 +25,14 @@
         "jest": "^26.6.3",
         "mongoose": "^5.10.15",
         "supertest": "^6.1.3"
-    }
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/401-JS-Mohammad-Zaareer/basic-auth.git"
+    },
+    "bugs": {
+        "url": "https://github.com/401-JS-Mohammad-Zaareer/basic-auth/issues"
+    },
+    "homepage": "https://github.com/401-JS-Mohammad-Zaareer/basic-auth#readme"
 }
