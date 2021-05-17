@@ -3,7 +3,7 @@
 
 ### Author: Mohammad Za'areer
 
-- [tests report](https://github.com/401-JS-Mohammad-Zaareer/api-server/actions)
+- [tests report](https://github.com/401-JS-Mohammad-Zaareer/basic-auth/actions)
 - [front-end](https://api-server-mongodb.herokuapp.com/)
 
 ### Setup
