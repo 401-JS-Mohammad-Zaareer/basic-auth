@@ -4,7 +4,7 @@
 ### Author: Mohammad Za'areer
 
 - [tests report](https://github.com/401-JS-Mohammad-Zaareer/basic-auth/actions)
-- [front-end](https://api-server-mongodb.herokuapp.com/)
+- [front-end](https://code401-authentication-system.herokuapp.com/)
 
 ### Setup
 
